@@ -14,9 +14,9 @@ using System.Windows.Forms;
 
 namespace Demo_NPOI
 {
-    public partial class Form1 : Form
+    public partial class Form_excel : Form
     {
-        public Form1()
+        public Form_excel()
         {
             InitializeComponent();
         }
